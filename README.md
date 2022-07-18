@@ -41,7 +41,7 @@
 
 <p>Contributions, issues and feature requests are welcome!</p>
 
-<p>Feel free to check the<a href="https://github.com/bsaygili/" target="_blank"> issues page</a></p>
+<p>Feel free to check the<a href="https://github.com/bsaygili/qrCode-generator-app_and_extension/issues" target="_blank"> issues page</a></p>
 
 <hr/>
 

@@ -9,7 +9,7 @@
 
 <ol>
     <li>Download this project.</li>
-    <li>Open chrome browser.</li>
+    <li>Open chme browser.</li>
     <li>Click "Extensions" top-right side of the browser.</li>
     <li>Click "Developer mode" ON.</li>
     <li>On the top-left side the browser click "Load unpacked"</li>
@@ -37,7 +37,7 @@
 
 <p>Contributions, issues and feature requests are welcome!</p>
 
-<p>Feel free to check the<a href="https://github.com/bsaygili/" target="_blank"> issues page</a></p>
+<p>Feel free to check the<a href="https://github.com/bsaygili/qrCode-generator-app_and_extension/issues" target="_blank"> issues page</a></p>
 
 <hr/>
 
