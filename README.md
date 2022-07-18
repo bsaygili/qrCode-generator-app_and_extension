@@ -20,7 +20,7 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
-    <li>QRCode Genarator Api</li>
+    <li>QRCode Generator Api</li>
 </ul>
 
 <hr/>
