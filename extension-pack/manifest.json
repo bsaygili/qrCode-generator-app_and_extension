@@ -1,0 +1,16 @@
+{
+  "name": "QR-Code Generator",
+  "description": "Generate qrCode",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "icons": {
+    "16": "/images/qr-code.png",
+    "32": "/images/qr-code.png",
+    "48": "/images/qr-code.png",
+    "128": "/images/qr-code.png"
+  },
+  "action": {
+    "default_icon": "/images/qr-code.png",
+    "default_popup": "index.html"
+  }
+}
